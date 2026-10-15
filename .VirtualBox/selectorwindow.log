@@ -1,0 +1,22 @@
+00:00:01.183487 VirtualBox GUI VM Selector Window 7.1.6 r167084 win.amd64 (Jan 21 2025 14:13:52) release log
+00:00:01.183490 Log opened 2025-03-18T01:35:57.381073000Z
+00:00:01.183491 Build Type: release
+00:00:01.183496 OS Product: Windows 11
+00:00:01.183497 OS Release: 10.0.26100
+00:00:01.183497 OS Service Pack: 
+00:00:01.206220 DMI Product Name: 550XDA
+00:00:01.213622 DMI Product Version: P23CFB
+00:00:01.213634 Firmware type: UEFI
+00:00:01.214241 Secure Boot: Enabled
+00:00:01.214253 Host RAM: 3819MB (3.7GB) total, 301MB available
+00:00:01.214259 Executable: C:\Program Files\Oracle\VirtualBox\VirtualBox.exe
+00:00:01.214260 Process ID: 19984
+00:00:01.214260 Package type: WINDOWS_64BITS_GENERIC
+00:00:01.214261 Windows Features:
+00:00:01.214262   Core Isolation (Memory Integrity): ENABLED
+00:00:01.214514 Qt version: 6.5.3
+00:00:01.216785 GUI: UIMediumEnumerator: Initial medium-enumeration finished!
+00:00:01.298535 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:01.298583 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:01:41.718810 GUI: UICommon: Handling aboutToQuit request..
+00:01:42.853500 GUI: UICommon: aboutToQuit request handled!

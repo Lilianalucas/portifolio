@@ -1,0 +1,55 @@
+00:00:00.004159 main     VirtualBox COM Server 7.1.6 r167084 win.amd64 (Jan 21 2025 14:13:52) release log
+00:00:00.004163 main     Log opened 2025-03-18T01:35:56.462084000Z
+00:00:00.004163 main     Build Type: release
+00:00:00.004169 main     OS Product: Windows 11
+00:00:00.004170 main     OS Release: 10.0.26100
+00:00:00.004171 main     OS Service Pack: 
+00:00:00.271618 main     DMI Product Name: 550XDA
+00:00:00.288104 main     DMI Product Version: P23CFB
+00:00:00.288113 main     Firmware type: UEFI
+00:00:00.288667 main     Secure Boot: Enabled
+00:00:00.288680 main     Host RAM: 3819MB (3.7GB) total, 306MB available
+00:00:00.288685 main     Executable: C:\Program Files\Oracle\VirtualBox\VBoxSVC.exe
+00:00:00.288686 main     Process ID: 19176
+00:00:00.288686 main     Package type: WINDOWS_64BITS_GENERIC
+00:00:00.288689 main     Windows Features:
+00:00:00.288690 main       Core Isolation (Memory Integrity): ENABLED
+00:00:00.445934          VirtualBox: object creation starts
+00:00:00.446869          Home directory: 'C:\Users\lilia\.VirtualBox'
+00:00:00.450026          Installed Drivers:
+00:00:00.469669          Loading settings file "C:\Users\lilia\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:00.487162          usbLibGetDevices: Starting USB device enumeration
+00:00:00.527386          Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&457d673&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 7
+00:00:00.528327          Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&457d673&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 10
+00:00:00.532602          usbLibGetDevices: Found 2 USB devices, 0 captured
+00:00:00.533769          USB: Unknown USB device detected (idVendor: 0x2b7e, idProduct: 0xa599)
+00:00:00.536093          USB: Unknown USB device detected (idVendor: 0x8087, idProduct: 0x0aaa)
+00:00:00.715529          HostDnsMonitor: initializing
+00:00:00.728833          HostDnsMonitor: updating information
+00:00:00.729326          HostDnsMonitor: old information
+00:00:00.729328            no server entries
+00:00:00.729329            no domain set
+00:00:00.729330            no search string entries
+00:00:00.729330          HostDnsMonitor: new information
+00:00:00.729331            server 1: 8.8.8.8
+00:00:00.729332            server 2: 8.8.4.4
+00:00:00.729332            server 3: 187.16.224.1
+00:00:00.729333            no domain set
+00:00:00.729333            no search string entries
+00:00:00.741941          VD: VDInit finished with VINF_SUCCESS
+00:00:00.750551          VirtualBox: object created
+00:00:00.998830          Saving settings file "C:\Users\lilia\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:01.007301          Finished saving settings file "C:\Users\lilia\.VirtualBox\VirtualBox.xml"
+00:00:01.007618          Saving settings file "C:\Users\lilia\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:01.013172          Finished saving settings file "C:\Users\lilia\.VirtualBox\VirtualBox.xml"
+00:00:01.013518          Saving settings file "C:\Users\lilia\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:01.019971          Finished saving settings file "C:\Users\lilia\.VirtualBox\VirtualBox.xml"
+00:00:02.023834          Saving settings file "C:\Users\lilia\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:02.029218          Finished saving settings file "C:\Users\lilia\.VirtualBox\VirtualBox.xml"
+00:00:02.031353          Saving settings file "C:\Users\lilia\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:02.038381          Finished saving settings file "C:\Users\lilia\.VirtualBox\VirtualBox.xml"
+00:01:47.529535 main     VirtualBox: object deletion starts
+00:01:47.537883 main     HostDnsMonitor: shutting down ...
+00:01:47.537980 main     HostDnsMonitor: shut down
+00:01:47.542748 Watcher  ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={d644ad1e-c501-4fc7-9ab6-aa6d763bc540} aComponent={VirtualBoxWrap} aText={The object is not ready}, preserve=false aResultDetail=0
+00:01:47.545625 main     VirtualBox: object deleted
